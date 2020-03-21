@@ -1,2 +1,2 @@
-# hand-tracking
-hand tracking on python
+# color-tracking
+color tracking on python
